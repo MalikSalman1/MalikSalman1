@@ -6,7 +6,7 @@
  
 ### 👋 Welcome to My GitHub!
 
-I'm Mohsin, a seasoned Frontend Engineer with expertise in Angular, Vue, Next.js, and React. I thrive on crafting dynamic and engaging user interfaces that seamlessly blend design and functionality, using the latest technologies 🚀. My passion is to deliver exceptional user experiences by leveraging my extensive knowledge in these cutting-edge frontend frameworks. Let's collaborate and breathe life into outstanding projects using Angular, Vue, Next.js, React, and more! 💼👯
+"I'm Salman, a seasoned Software Engineer with expertise in PHP core, Laravel PHP, Express.js, Node.js, MySQL, and MongoDB. I thrive on crafting dynamic and engaging web applications and databases that seamlessly blend design and functionality, using the latest technologies 🚀. My passion is to deliver exceptional software solutions by leveraging my extensive knowledge in these technologies. Let's collaborate and breathe life into outstanding projects using PHP core, Laravel PHP, Express.js, Node.js, MySQL, MongoDB, and more! 💼👯"
 
 ### 🎨 Angular, Vue, Next.js, React Master
 
