@@ -26,7 +26,7 @@ With a deep immersion in the frontend ecosystem, I excel in creative problem-sol
 <br>
 
 <p align="center">
-<a href="https://github.com/Mohsin-mw">
+<a href="https://github.com/MalikSalman1">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MalikSalman1&show_icons=true&theme=algolia&count-private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikSalman1&theme=algolia&layout=compact&count-private=true"/>
  
