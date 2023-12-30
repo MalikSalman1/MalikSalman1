@@ -8,17 +8,17 @@
 
 I'm Salman, a seasoned Software Engineer with expertise in PHP core, Laravel PHP, Express.js, Node.js, MySQL, and MongoDB. I thrive on crafting dynamic and engaging web applications and databases that seamlessly blend design and functionality, using the latest technologies 🚀. My passion is to deliver exceptional software solutions by leveraging my extensive knowledge in these technologies. Let's collaborate and breathe life into outstanding projects using PHP core, Laravel PHP, Express.js, Node.js, MySQL, MongoDB, and more! 💼👯
 
-### 🎨 Angular, Vue, Next.js, React Master
+### 🎨 Laravel, Node, Express, React
 
-I specialize in creating captivating user interfaces using Angular, Vue, Next.js, and React, ensuring top-notch UI/UX experiences. Whether it's single-page applications or complex web solutions, I have the expertise to make it happen.
+I excel in developing dynamic user interfaces utilizing my skills in Laravel, Node.js, Express, and React. With a keen eye for detail, I ensure seamless UI/UX experiences, whether it's building single-page applications or tackling complex web solutions.
 
 ### 🚀 Creative Problem Solver
 
-With a deep immersion in the frontend ecosystem, I excel in creative problem-solving. My expertise guarantees optimal performance and cross-browser compatibility, resulting in seamless and remarkable user interactions across various frontend technologies.
+As a Full stack developer, I'm a creative problem solver specializing in optimizing performance, designing robust algorithms, and troubleshooting integrations. My approach blends analytical thinking with imaginative problem-solving skills to exceed expectations in crafting resilient digital solutions.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-![My Skills](https://skillicons.dev/icons?i=php,laravel,react,mysql)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,node,express,react,mysql)
 
  
 
